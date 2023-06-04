@@ -1,0 +1,3 @@
+[submodule "themes/web-library-hugo-theme"]
+	path = themes/web-library-hugo-theme
+	url = https://github.com/JessebotX/web-library-hugo-theme
