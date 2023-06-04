@@ -7,7 +7,7 @@ Uses Hugo and <https://github.com/JessebotX/web-library-hugo-theme>
 git clone https://github.com/JessebotX/web-library-hugo-theme --recursive
 ```
 
-## Usage
+### Usage
 ### Starting local dev server
 ```sh
 hugo server
