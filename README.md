@@ -4,7 +4,7 @@ Uses Hugo and <https://github.com/JessebotX/web-library-hugo-theme>
 
 ## Download/Install
 ```sh
-git clone https://github.com/JessebotX/web-library-hugo-theme --recursive
+git clone https://github.com/JessebotX/public-domain-web-library --recursive
 ```
 
 ### Usage
