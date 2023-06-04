@@ -2,6 +2,8 @@
 
 Uses Hugo and <https://github.com/JessebotX/web-library-hugo-theme>
 
+**See Previews:** <https://github.com/JessebotX/web-library-hugo-theme/tree/master/previews>
+
 ## Download/Install
 ```sh
 git clone https://github.com/JessebotX/public-domain-web-library --recursive
@@ -17,5 +19,3 @@ hugo server
 ```sh
 hugo
 ```
-
-
