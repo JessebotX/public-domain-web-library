@@ -7,7 +7,7 @@ Uses Hugo and <https://github.com/JessebotX/web-library-hugo-theme>
 ![](https://github.com/JessebotX/web-library-hugo-theme/blob/master/previews/serial-chapter.png)
 
 
-**See Previews:** <https://github.com/JessebotX/web-library-hugo-theme/tree/master/previews>
+**See More Previews:** <https://github.com/JessebotX/web-library-hugo-theme/tree/master/previews>
 
 ## Download/Install
 ```sh
