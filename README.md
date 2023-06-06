@@ -3,7 +3,6 @@
 Uses Hugo and <https://github.com/JessebotX/web-library-hugo-theme>
 
 ![](https://github.com/JessebotX/web-library-hugo-theme/blob/master/previews/desktop-index.png)
-![](https://github.com/JessebotX/web-library-hugo-theme/blob/master/previews/phone-index.png)
 ![](https://github.com/JessebotX/web-library-hugo-theme/blob/master/previews/serial-index.png)
 ![](https://github.com/JessebotX/web-library-hugo-theme/blob/master/previews/serial-chapter.png)
 
